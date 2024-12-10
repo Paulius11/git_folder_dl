@@ -11,9 +11,8 @@ This script allows you to download a specific folder from a GitHub repository, i
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-
-pip install -r requirements.txt
+   git clone https://github.com/Paulius11/git_folderdl
+   pip install -r requirements.txt
 
 ## Usage
 ```bash
